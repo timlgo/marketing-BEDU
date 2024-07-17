@@ -95,18 +95,26 @@ Saludos
 
 **Publicación 1**:
 
+<img width="295" alt="image" src="https://github.com/user-attachments/assets/b9d0ab04-e0c2-4363-b92a-353a3e8fba48">
 
 Imagen: Productos deportivos en uso.
 
 **Publicación 2**:
 
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/daef007c-a2d5-46b7-a57f-176c660a7767">
+
+
 Imagen: Atletas utilizando los productos.
 
 **Publicación 3**:
 
+<img width="363" alt="image" src="https://github.com/user-attachments/assets/3f30c9ff-e8c2-476d-a43e-e21f3f1221a2">
+
 Imagen: Evento en tienda con clientes y productos destacados.
 
 ### Revista Digital
+
+<img width="195" alt="image" src="https://github.com/user-attachments/assets/a0187cb9-54a3-41d3-9d6f-f3c771fe6196">
 
 **Artículo**: La Nueva Era de los Artículos Deportivos: Innovación y Rendimiento
 
