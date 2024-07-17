@@ -113,6 +113,76 @@ Imagen: Atletas utilizando los productos.
 Imagen: Evento en tienda con clientes y productos destacados.
 
 ### Revista Digital
+# Digital Magazine for Sports Equipment Marketing Campaign
+
+## Cover Page
+**Title**: "Elevate Your Game with NIKE, ADIDAS, and UNDER ARMOUR"
+**Image**: Dynamic collage featuring athletes using products from all three brands.
+
+## Table of Contents
+1. Introduction
+2. Brand Highlights
+   - NIKE
+   - ADIDAS
+   - UNDER ARMOUR
+3. Featured Products
+4. Testimonials and Success Stories
+5. Promotions and Special Offers
+6. Upcoming Events and Activations
+7. Contact and Follow Us
+
+## 1. Introduction
+Welcome to our exclusive magazine showcasing the best in sports equipment from NIKE, ADIDAS, and UNDER ARMOUR. Discover how each brand brings innovation, style, and performance to athletes worldwide.
+
+## 2. Brand Highlights
+
+### NIKE
+**Slogan**: "Just Do It - Conquista tu Mundo"
+**Overview**: NIKE leads with innovation in athletic wear, offering cutting-edge technology and designs to enhance performance.
+**Featured Products**:
+- **Air Zoom Pegasus 38**: Unparalleled comfort and support.
+- **Dri-FIT Clothing Line**: Advanced moisture-wicking fabrics.
+
+### ADIDAS
+**Slogan**: "Impossible is Nothing - Rompe tus Límites"
+**Overview**: ADIDAS combines urban style with athletic performance, focusing on sustainability.
+**Featured Products**:
+- **Ultraboost 21**: Energy-returning cushioning.
+- **Primeblue Collection**: Eco-friendly materials.
+
+### UNDER ARMOUR
+**Slogan**: "Protect This House - Defiende tu Territorio"
+**Overview**: UNDER ARMOUR delivers gear that maximizes training efficiency with advanced technology.
+**Featured Products**:
+- **UA HOVR Phantom 2**: Superior energy return.
+- **HeatGear Apparel**: Lightweight and breathable.
+
+## 3. Featured Products
+Detailed descriptions and high-quality images of the latest releases from each brand, focusing on key features and benefits.
+
+## 4. Testimonials and Success Stories
+Real-life stories from athletes and fitness enthusiasts who have achieved their goals using NIKE, ADIDAS, and UNDER ARMOUR products.
+
+## 5. Promotions and Special Offers
+Exclusive discounts and bundle deals for magazine readers. Use code "SPORTS2022" for 20% off your next purchase.
+
+## 6. Upcoming Events and Activations
+Join us at upcoming sports events, in-store demonstrations, and live workouts with professional trainers.
+
+## 7. Contact and Follow Us
+Stay connected with us on social media and subscribe to our newsletter for the latest updates.
+
+# Website Content
+**Homepage**: 
+- **Banner**: "Elevate Your Game with NIKE, ADIDAS, and UNDER ARMOUR"
+- **Sections**:
+  - Brand Highlights
+  - Featured Products
+  - Promotions
+  - Events
+  - Testimonials
+
+**Illustrations**: Include images of athletes in action, product close-ups, and brand logos.
 
 <img width="195" alt="image" src="https://github.com/user-attachments/assets/a0187cb9-54a3-41d3-9d6f-f3c771fe6196">
 
